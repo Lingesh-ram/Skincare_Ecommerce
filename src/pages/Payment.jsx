@@ -15,7 +15,7 @@ const Payment = () => {
 
       <div className="qr-section">
       <img
-  src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi%3A%2F%2Fpay%3Fpa%3Dgeethu.060906%40okicici%26pn%3DGeethuShop%26am%3D100%26cu%3DINR"
+  src= "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi%3A%2F%2Fpay%3Fpa%3Dlingeshtram0018%40oksbi%26pn%3DLingesh%20Shop%26am%3D100%26cu%3DINR"
   alt="QR Code"
   class="qr-code"
 />
